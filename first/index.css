@@ -1,0 +1,25 @@
+header{
+    height:20vh;
+    width: 100vw;
+    background-color: black;
+}
+body{
+    background-color:lightgray;
+    width:100vw;
+    height:80vh;
+    margin:0;
+    padding:0;
+}
+main{
+    width: 80vw;
+    height: 70vh;
+    background-color:gray;
+    margin:auto;
+}
+footer{
+    height:10vh;
+    width: 80vw;
+    background-color:silver;
+    margin:auto;
+
+}
